@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+werkzeug/
+wtforms/
+*.pyc
+*.po
+*c
+*yc
