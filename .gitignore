@@ -1,8 +1,4 @@
-__pycache__/
-*.pyc
-werkzeug/
-wtforms/
-*.pyc
-*.po
-*c
-*yc
+postcss.config.js
+package.json
+package-lock.json
+node_modules

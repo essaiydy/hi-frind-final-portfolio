@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  root: './hi-friend-final-portfolio/template',
+  root: './hi-friend-final-portfolio/template/*.html',
   server: {
     port: 3000,
     open: true,
