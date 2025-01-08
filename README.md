@@ -1,11 +1,20 @@
-git add README.md
-#important web site 
-##I really like simple sites that allow you to buy and sell at the same time. That's why I decided to develop this site. Which enables you to sell old and new products. And buy other products easily through a simple and clean interface.
+# important web site 
+# I really like simple sites that allow you to buy and sell at the same time. That's why I decided to develop this site. Which enables you to sell old and new products. And buy other products easily through a simple and clean interface.
 
-##login
+# login
 
 ![image alt](login.PNG)
 
-#about page
+# about page
 
 ![about page](about.PNG)
+
+# home page
+
+![home page](home.PNG)
+
+# panier page
+
+![panier](panier.PNG)
+
+
